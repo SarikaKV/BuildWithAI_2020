@@ -19,4 +19,18 @@ Understand public perception and the influence of misinformation on public senti
 * Wake-up General Public to be more conscious about their new consumption.
 
 
+What is the process and what are part of the final Solution?
+
+* Scope and Use Case Definition
+* Data gathering
+* Data pre-processing
+* Analyzing data for sentiment and tonality
+* Data Visualization using Tableau
+* Insight Gathering
+
+NLP process Involved:
+ * Data Preprocessing
+ * Bert based Semantic Search
+    * h
+ 
 
